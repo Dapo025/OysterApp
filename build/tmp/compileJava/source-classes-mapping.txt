@@ -1,0 +1,21 @@
+org/example/model/Card.java
+ org.example.model.Card
+org/example/rule/CardReader.java
+ org.example.rule.CardReader
+org/example/model/Mode.java
+ org.example.model.Mode
+org/example/rule/Rule.java
+ org.example.rule.Rule
+org/example/model/Zone.java
+ org.example.model.Zone
+org/example/rule/RuleSituation.java
+ org.example.rule.RuleSituation
+org/example/rule/Combination.java
+ org.example.rule.Combination
+org/example/rule/CalculateFare.java
+ org.example.rule.CalculateFare
+org/example/model/Trip.java
+ org.example.model.Trip
+ org.example.model.Trip$TripBuilder
+org/example/model/Station.java
+ org.example.model.Station
